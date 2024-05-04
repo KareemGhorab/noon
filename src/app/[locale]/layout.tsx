@@ -1,5 +1,7 @@
 import { FC, ReactNode } from 'react'
 
+import '@/styles/reset.scss'
+
 type TProps = {
 	children: ReactNode
 	params: { locale: string }
