@@ -1,0 +1,13 @@
+.search-bar {
+	flex-grow: 1;
+
+	input {
+		border-radius: calc(var(--space) * 0.5);
+		padding: calc(var(--space) * 1.5);
+		width: 100%;
+		font-size: 1rem;
+		&::placeholder {
+			font-size: 1rem;
+		}
+	}
+}
