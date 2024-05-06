@@ -6,15 +6,19 @@
     --bg-color-dark: #eaeaea;
     --bg-color-light-blue: #f1f4fd;
 
-    --text-color: #2f2e2d;
+    --text-color: #404553;
 
     --white-color: #ffffff;
 
     --banner-color: #58595b;
 
-    --gray-color-400: rgba(64, 69, 83, 0.2);
+    --gray-color-400: #40455333;
 
 	--space: 8px;
 
     font-size: 16px;
+}
+
+body {
+    color: var(--text-color)
 }

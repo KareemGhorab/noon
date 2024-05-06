@@ -94,7 +94,17 @@ video {
 }
 
 body {
-    line-height: 1;
+	line-height: 1;
+}
+
+button {
+	background: none;
+	border: none;
+	cursor: pointer;
+}
+
+a {
+	text-decoration: none;
 }
 
 /* HTML5 display-role reset for older browsers */

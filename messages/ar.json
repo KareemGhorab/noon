@@ -6,8 +6,9 @@
 		"Navbar": {
 			"search-placeholder": "ما الذي تبحث عنه؟",
 			"language-switch": "English",
-			"ahlan": "أهلا",
-			"my-account": "حسابي"
+			"ahlan": "أهلًا",
+			"my-account": "حسابي",
+			"cart": "العربة"
 		}
 	}
 }

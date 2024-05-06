@@ -4,7 +4,7 @@ import { FC, useTransition } from 'react'
 import { usePathname, useParams, useRouter } from 'next/navigation'
 import clsx from 'clsx'
 
-import styles from './lang-switch-client.module.scss'
+import styles from './lang-switch.module.scss'
 import { cairo, figtree } from '@/config/fonts'
 
 type TProps = {

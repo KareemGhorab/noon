@@ -1,0 +1,10 @@
+.navbar-text {
+	font-weight: 700;
+	font-size: 0.9rem;
+
+	transition: opacity 0.2s;
+
+	&:hover {
+		opacity: 50%;
+	}
+}

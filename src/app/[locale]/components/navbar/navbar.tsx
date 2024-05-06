@@ -2,6 +2,8 @@ import React from 'react'
 import Image from 'next/image'
 
 import styles from './navbar.module.scss'
+import './styles/components.scss'
+import './styles/utils.scss'
 
 import LangSwitch from './lang-switch/lang-switch'
 import SearchBar from './search-bar/search-bar'
