@@ -105,6 +105,9 @@ button {
 
 a {
 	text-decoration: none;
+	&:hover {
+		color: inherit;
+	}
 }
 
 /* HTML5 display-role reset for older browsers */
