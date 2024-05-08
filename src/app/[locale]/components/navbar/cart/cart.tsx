@@ -12,7 +12,7 @@ const NavbarCart = () => {
 		<Link href={'/cart'} className={clsx(styles.cart, 'navbar-text')}>
 			<div>
 				<div>{t('cart')}</div>
-				<div>{<ShoppingCartIcon width={16} height={16} />}</div>
+				{<ShoppingCartIcon width={16} height={16} />}
 			</div>
 		</Link>
 	)

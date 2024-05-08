@@ -1,0 +1,6 @@
+.wishlist {
+	& > div {
+		display: flex;
+		gap: calc(var(--space) * 0.5);
+	}
+}
